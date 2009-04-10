@@ -1,0 +1,357 @@
+D, [2009-04-09T22:06:22.219349 #8816] DEBUG -- : starting to resolve deps: merb (>= 0.0, runtime)
+D, [2009-04-09T22:06:22.219445 #8816] DEBUG -- : searching for: merb (>= 0.0, runtime)
+I, [2009-04-09T22:06:22.223100 #8816]  INFO -- : activating spec: merb-1.0.1
+D, [2009-04-09T22:06:22.223392 #8816] DEBUG -- : starting to resolve deps: merb-core (~> 1.0.1, runtime), merb-more (~> 1.0.1, runtime), dm-core (~> 0.9.6, runtime), do_sqlite3 (~> 0.9.6, runtime), dm-timestamps (~> 0.9.6, runtime), dm-types (~> 0.9.6, runtime), dm-aggregates (~> 0.9.6, runtime), dm-migrations (~> 0.9.6, runtime), dm-validations (~> 0.9.6, runtime), dm-sweatshop (~> 0.9.6, runtime)
+D, [2009-04-09T22:06:22.223443 #8816] DEBUG -- : searching for: merb-core (~> 1.0.1, runtime)
+I, [2009-04-09T22:06:22.224543 #8816]  INFO -- : activating spec: merb-core-1.0.1
+D, [2009-04-09T22:06:22.224898 #8816] DEBUG -- : starting to resolve deps: extlib (>= 0.9.8, runtime), erubis (>= 2.6.2, runtime), rake (>= 0, runtime), json_pure (>= 0, runtime), rspec (>= 0, runtime), rack (>= 0, runtime), mime-types (>= 0, runtime), thor (>= 0.9.7, runtime)
+D, [2009-04-09T22:06:22.224944 #8816] DEBUG -- : searching for: extlib (>= 0.9.8, runtime)
+I, [2009-04-09T22:06:22.238535 #8816]  INFO -- : activating spec: extlib-0.9.8
+D, [2009-04-09T22:06:22.238736 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.238793 #8816] DEBUG -- : searching for: erubis (>= 2.6.2, runtime)
+I, [2009-04-09T22:06:22.241682 #8816]  INFO -- : activating spec: erubis-2.6.2
+D, [2009-04-09T22:06:22.242343 #8816] DEBUG -- : starting to resolve deps: abstract (>= 1.0.0, runtime)
+D, [2009-04-09T22:06:22.242397 #8816] DEBUG -- : searching for: abstract (>= 1.0.0, runtime)
+I, [2009-04-09T22:06:22.246078 #8816]  INFO -- : activating spec: abstract-1.0.0
+D, [2009-04-09T22:06:22.246214 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.246268 #8816] DEBUG -- : searching for: rake (>= 0, runtime)
+I, [2009-04-09T22:06:22.251508 #8816]  INFO -- : activating spec: rake-0.8.3
+D, [2009-04-09T22:06:22.251772 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.251827 #8816] DEBUG -- : searching for: json_pure (>= 0, runtime)
+I, [2009-04-09T22:06:22.257585 #8816]  INFO -- : activating spec: json_pure-1.1.2
+D, [2009-04-09T22:06:22.257842 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.257896 #8816] DEBUG -- : searching for: rspec (>= 0, runtime)
+I, [2009-04-09T22:06:22.267495 #8816]  INFO -- : activating spec: rspec-1.1.3
+D, [2009-04-09T22:06:22.268742 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.268831 #8816] DEBUG -- : searching for: rack (>= 0, runtime)
+I, [2009-04-09T22:06:22.277225 #8816]  INFO -- : activating spec: rack-0.3.0
+D, [2009-04-09T22:06:22.277484 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.277554 #8816] DEBUG -- : searching for: mime-types (>= 0, runtime)
+I, [2009-04-09T22:06:22.285325 #8816]  INFO -- : activating spec: mime-types-1.15
+D, [2009-04-09T22:06:22.285534 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.285633 #8816] DEBUG -- : searching for: thor (>= 0.9.7, runtime)
+I, [2009-04-09T22:06:22.293542 #8816]  INFO -- : activating spec: thor-0.9.8
+D, [2009-04-09T22:06:22.293813 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.293998 #8816] DEBUG -- : searching for: merb-more (~> 1.0.1, runtime)
+I, [2009-04-09T22:06:22.302723 #8816]  INFO -- : activating spec: merb-more-1.0.1
+D, [2009-04-09T22:06:22.303087 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime), merb-action-args (>= 1.0.1, runtime), merb-assets (>= 1.0.1, runtime), merb-slices (>= 1.0.1, runtime), merb-auth (>= 1.0.1, runtime), merb-cache (>= 1.0.1, runtime), merb-exceptions (>= 1.0.1, runtime), merb-gen (>= 1.0.1, runtime), merb-haml (>= 1.0.1, runtime), merb-helpers (>= 1.0.1, runtime), merb-mailer (>= 1.0.1, runtime), merb-param-protection (>= 1.0.1, runtime), merb_datamapper (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.303140 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.311212 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.311303 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.311348 #8816] DEBUG -- : searching for: merb-action-args (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.319887 #8816]  INFO -- : activating spec: merb-action-args-1.0.1
+D, [2009-04-09T22:06:22.320101 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime), ruby2ruby (>= 1.1.9, runtime), ParseTree (>= 2.1.1, runtime)
+D, [2009-04-09T22:06:22.320150 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.328224 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.328291 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.328337 #8816] DEBUG -- : searching for: ruby2ruby (>= 1.1.9, runtime)
+I, [2009-04-09T22:06:22.336967 #8816]  INFO -- : activating spec: ruby2ruby-1.2.1
+D, [2009-04-09T22:06:22.337137 #8816] DEBUG -- : starting to resolve deps: ParseTree (~> 3.0, runtime)
+D, [2009-04-09T22:06:22.337184 #8816] DEBUG -- : searching for: ParseTree (~> 3.0, runtime)
+I, [2009-04-09T22:06:22.346171 #8816]  INFO -- : activating spec: ParseTree-3.0.2
+D, [2009-04-09T22:06:22.346371 #8816] DEBUG -- : starting to resolve deps: RubyInline (>= 3.7.0, runtime), sexp_processor (>= 3.0.0, runtime)
+D, [2009-04-09T22:06:22.346419 #8816] DEBUG -- : searching for: RubyInline (>= 3.7.0, runtime)
+I, [2009-04-09T22:06:22.374091 #8816]  INFO -- : activating spec: RubyInline-3.8.1
+D, [2009-04-09T22:06:22.374454 #8816] DEBUG -- : starting to resolve deps: ZenTest (>= 0, runtime)
+D, [2009-04-09T22:06:22.374620 #8816] DEBUG -- : searching for: ZenTest (>= 0, runtime)
+I, [2009-04-09T22:06:22.385817 #8816]  INFO -- : activating spec: ZenTest-3.9.2
+D, [2009-04-09T22:06:22.386077 #8816] DEBUG -- : starting to resolve deps: hoe (>= 1.5.1, runtime)
+D, [2009-04-09T22:06:22.386128 #8816] DEBUG -- : searching for: hoe (>= 1.5.1, runtime)
+I, [2009-04-09T22:06:22.398734 #8816]  INFO -- : activating spec: hoe-1.8.2
+D, [2009-04-09T22:06:22.398970 #8816] DEBUG -- : starting to resolve deps: rubyforge (>= 1.0.1, runtime), rake (>= 0.8.3, runtime)
+D, [2009-04-09T22:06:22.399050 #8816] DEBUG -- : searching for: rubyforge (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.409847 #8816]  INFO -- : activating spec: rubyforge-1.0.1
+D, [2009-04-09T22:06:22.410144 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.410286 #8816] DEBUG -- : searching for: rake (>= 0.8.3, runtime)
+D, [2009-04-09T22:06:22.423038 #8816] DEBUG -- : already activated: rake-0.8.3
+D, [2009-04-09T22:06:22.423128 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.423169 #8816] DEBUG -- : finishing to resolve deps: 
+D, [2009-04-09T22:06:22.423205 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.423253 #8816] DEBUG -- : searching for: rake (>= 0.8.3, runtime)
+D, [2009-04-09T22:06:22.434730 #8816] DEBUG -- : already activated: rake-0.8.3
+D, [2009-04-09T22:06:22.434826 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.434863 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.434920 #8816] DEBUG -- : finishing to resolve deps: rubyforge (>= 1.0.1, runtime), rake (>= 0.8.3, runtime)
+D, [2009-04-09T22:06:22.434958 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.435002 #8816] DEBUG -- : finishing to resolve deps: hoe (>= 1.5.1, runtime)
+D, [2009-04-09T22:06:22.435036 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.435078 #8816] DEBUG -- : finishing to resolve deps: ZenTest (>= 0, runtime)
+D, [2009-04-09T22:06:22.435113 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.435153 #8816] DEBUG -- : searching for: sexp_processor (>= 3.0.0, runtime)
+I, [2009-04-09T22:06:22.446094 #8816]  INFO -- : activating spec: sexp_processor-3.0.0
+D, [2009-04-09T22:06:22.446258 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.446314 #8816] DEBUG -- : searching for: ParseTree (>= 2.1.1, runtime)
+D, [2009-04-09T22:06:22.475012 #8816] DEBUG -- : already activated: ParseTree-3.0.2
+D, [2009-04-09T22:06:22.475112 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.475160 #8816] DEBUG -- : finishing to resolve deps: 
+D, [2009-04-09T22:06:22.475199 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.475233 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.475291 #8816] DEBUG -- : finishing to resolve deps: RubyInline (>= 3.7.0, runtime), sexp_processor (>= 3.0.0, runtime)
+D, [2009-04-09T22:06:22.475328 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.475374 #8816] DEBUG -- : finishing to resolve deps: ParseTree (~> 3.0, runtime)
+D, [2009-04-09T22:06:22.475409 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.475453 #8816] DEBUG -- : searching for: ParseTree (>= 2.1.1, runtime)
+D, [2009-04-09T22:06:22.488148 #8816] DEBUG -- : already activated: ParseTree-3.0.2
+D, [2009-04-09T22:06:22.488230 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.488266 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.488298 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.488363 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime), ruby2ruby (>= 1.1.9, runtime), ParseTree (>= 2.1.1, runtime)
+D, [2009-04-09T22:06:22.488400 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.488444 #8816] DEBUG -- : searching for: merb-assets (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.502105 #8816]  INFO -- : activating spec: merb-assets-1.0.1
+D, [2009-04-09T22:06:22.502344 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.502397 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.514330 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.514434 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.514488 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.514524 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.514565 #8816] DEBUG -- : searching for: merb-slices (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.528122 #8816]  INFO -- : activating spec: merb-slices-1.0.1
+D, [2009-04-09T22:06:22.528448 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.528494 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.540855 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.540949 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.541089 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.541138 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.541179 #8816] DEBUG -- : searching for: merb-auth (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.554850 #8816]  INFO -- : activating spec: merb-auth-1.0.1
+D, [2009-04-09T22:06:22.555083 #8816] DEBUG -- : starting to resolve deps: merb-core (~> 1.0.1, runtime), merb-auth-core (~> 1.0.1, runtime), merb-auth-more (~> 1.0.1, runtime), merb-auth-slice-password (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:22.555137 #8816] DEBUG -- : searching for: merb-core (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:22.587815 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.587910 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.587956 #8816] DEBUG -- : searching for: merb-auth-core (~> 1.0.1, runtime)
+I, [2009-04-09T22:06:22.603054 #8816]  INFO -- : activating spec: merb-auth-core-1.0.1
+D, [2009-04-09T22:06:22.603393 #8816] DEBUG -- : starting to resolve deps: merb-core (~> 1.0.1, runtime), extlib (>= 0, runtime)
+D, [2009-04-09T22:06:22.603497 #8816] DEBUG -- : searching for: merb-core (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:22.616879 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.616963 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.617010 #8816] DEBUG -- : searching for: extlib (>= 0, runtime)
+D, [2009-04-09T22:06:22.631139 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:22.631232 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.631268 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.631323 #8816] DEBUG -- : finishing to resolve deps: merb-core (~> 1.0.1, runtime), extlib (>= 0, runtime)
+D, [2009-04-09T22:06:22.631360 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.631400 #8816] DEBUG -- : searching for: merb-auth-more (~> 1.0.1, runtime)
+I, [2009-04-09T22:06:22.646820 #8816]  INFO -- : activating spec: merb-auth-more-1.0.1
+D, [2009-04-09T22:06:22.647048 #8816] DEBUG -- : starting to resolve deps: merb-auth-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.647101 #8816] DEBUG -- : searching for: merb-auth-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.680501 #8816] DEBUG -- : already activated: merb-auth-core-1.0.1
+D, [2009-04-09T22:06:22.680655 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.680741 #8816] DEBUG -- : finishing to resolve deps: merb-auth-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.680787 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.680844 #8816] DEBUG -- : searching for: merb-auth-slice-password (~> 1.0.1, runtime)
+I, [2009-04-09T22:06:22.697464 #8816]  INFO -- : activating spec: merb-auth-slice-password-1.0.1
+D, [2009-04-09T22:06:22.697838 #8816] DEBUG -- : starting to resolve deps: merb-slices (>= 1.0.1, runtime), merb-auth-core (>= 1.0.1, runtime), merb-auth-more (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.697975 #8816] DEBUG -- : searching for: merb-slices (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.714252 #8816] DEBUG -- : already activated: merb-slices-1.0.1
+D, [2009-04-09T22:06:22.714347 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.714392 #8816] DEBUG -- : searching for: merb-auth-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.729514 #8816] DEBUG -- : already activated: merb-auth-core-1.0.1
+D, [2009-04-09T22:06:22.729660 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.729845 #8816] DEBUG -- : searching for: merb-auth-more (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.746888 #8816] DEBUG -- : already activated: merb-auth-more-1.0.1
+D, [2009-04-09T22:06:22.747040 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.747107 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.747140 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.747210 #8816] DEBUG -- : finishing to resolve deps: merb-slices (>= 1.0.1, runtime), merb-auth-core (>= 1.0.1, runtime), merb-auth-more (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.747246 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.747278 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.747310 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.747342 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:22.747409 #8816] DEBUG -- : finishing to resolve deps: merb-core (~> 1.0.1, runtime), merb-auth-core (~> 1.0.1, runtime), merb-auth-more (~> 1.0.1, runtime), merb-auth-slice-password (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:22.747447 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.747492 #8816] DEBUG -- : searching for: merb-cache (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.762464 #8816]  INFO -- : activating spec: merb-cache-1.0.1
+D, [2009-04-09T22:06:22.762732 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.762784 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.798977 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.799070 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.799120 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.799210 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.799354 #8816] DEBUG -- : searching for: merb-exceptions (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.815696 #8816]  INFO -- : activating spec: merb-exceptions-1.0.1
+D, [2009-04-09T22:06:22.815888 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.815940 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.832212 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.832319 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.832377 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.832414 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.832456 #8816] DEBUG -- : searching for: merb-gen (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:22.849304 #8816]  INFO -- : activating spec: merb-gen-1.0.1
+D, [2009-04-09T22:06:22.849882 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime), templater (>= 0.3.3, runtime)
+D, [2009-04-09T22:06:22.850871 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:22.887653 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:22.887768 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.887821 #8816] DEBUG -- : searching for: templater (>= 0.3.3, runtime)
+I, [2009-04-09T22:06:22.916959 #8816]  INFO -- : activating spec: templater-0.4.4
+D, [2009-04-09T22:06:22.917374 #8816] DEBUG -- : starting to resolve deps: highline (>= 1.4.0, runtime), diff-lcs (>= 1.1.2, runtime), extlib (>= 0.9.5, runtime)
+D, [2009-04-09T22:06:22.917483 #8816] DEBUG -- : searching for: highline (>= 1.4.0, runtime)
+I, [2009-04-09T22:06:22.935880 #8816]  INFO -- : activating spec: highline-1.4.0
+D, [2009-04-09T22:06:22.936066 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.936121 #8816] DEBUG -- : searching for: diff-lcs (>= 1.1.2, runtime)
+I, [2009-04-09T22:06:22.954930 #8816]  INFO -- : activating spec: diff-lcs-1.1.2
+D, [2009-04-09T22:06:22.955195 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:22.955333 #8816] DEBUG -- : searching for: extlib (>= 0.9.5, runtime)
+D, [2009-04-09T22:06:22.973415 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:22.973539 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:22.973581 #8816] DEBUG -- : finishing to resolve deps: 
+D, [2009-04-09T22:06:22.973615 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:22.973679 #8816] DEBUG -- : searching for: extlib (>= 0.9.5, runtime)
+D, [2009-04-09T22:06:23.014797 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:23.014893 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.014927 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.014966 #8816] DEBUG -- : finishing to resolve deps: 
+D, [2009-04-09T22:06:23.015000 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.015044 #8816] DEBUG -- : searching for: diff-lcs (>= 1.1.2, runtime)
+D, [2009-04-09T22:06:23.033475 #8816] DEBUG -- : already activated: diff-lcs-1.1.2
+D, [2009-04-09T22:06:23.033574 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.033619 #8816] DEBUG -- : searching for: extlib (>= 0.9.5, runtime)
+D, [2009-04-09T22:06:23.052428 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:23.052603 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.052647 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.052687 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.052764 #8816] DEBUG -- : finishing to resolve deps: highline (>= 1.4.0, runtime), diff-lcs (>= 1.1.2, runtime), extlib (>= 0.9.5, runtime)
+D, [2009-04-09T22:06:23.052808 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.052859 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.052913 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime), templater (>= 0.3.3, runtime)
+D, [2009-04-09T22:06:23.052949 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.052991 #8816] DEBUG -- : searching for: merb-haml (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:23.073723 #8816]  INFO -- : activating spec: merb-haml-1.0.1
+D, [2009-04-09T22:06:23.073976 #8816] DEBUG -- : starting to resolve deps: merb-core (= 1.0.1, runtime), haml (>= 2.0.3, runtime)
+D, [2009-04-09T22:06:23.074024 #8816] DEBUG -- : searching for: merb-core (= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.114047 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:23.114242 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.114491 #8816] DEBUG -- : searching for: haml (>= 2.0.3, runtime)
+I, [2009-04-09T22:06:23.140666 #8816]  INFO -- : activating spec: haml-2.0.4
+D, [2009-04-09T22:06:23.141069 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:23.141174 #8816] DEBUG -- : searching for: merb-helpers (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:23.161686 #8816]  INFO -- : activating spec: merb-helpers-1.0.1
+D, [2009-04-09T22:06:23.162333 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.162446 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.187598 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:23.187692 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.187741 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.187777 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.187935 #8816] DEBUG -- : searching for: merb-mailer (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:23.230669 #8816]  INFO -- : activating spec: merb-mailer-1.0.1
+D, [2009-04-09T22:06:23.231034 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime), mailfactory (>= 1.2.3, runtime)
+D, [2009-04-09T22:06:23.231172 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.255432 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:23.255523 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.255568 #8816] DEBUG -- : searching for: mailfactory (>= 1.2.3, runtime)
+I, [2009-04-09T22:06:23.277396 #8816]  INFO -- : activating spec: mailfactory-1.3.1
+D, [2009-04-09T22:06:23.277616 #8816] DEBUG -- : starting to resolve deps: mime-types (>= 1.13.1, runtime)
+D, [2009-04-09T22:06:23.277667 #8816] DEBUG -- : searching for: mime-types (>= 1.13.1, runtime)
+D, [2009-04-09T22:06:23.303455 #8816] DEBUG -- : already activated: mime-types-1.15
+D, [2009-04-09T22:06:23.303553 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.303628 #8816] DEBUG -- : finishing to resolve deps: mime-types (>= 1.13.1, runtime)
+D, [2009-04-09T22:06:23.303766 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.303890 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.303947 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime), mailfactory (>= 1.2.3, runtime)
+D, [2009-04-09T22:06:23.304015 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.304058 #8816] DEBUG -- : searching for: merb-param-protection (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:23.348069 #8816]  INFO -- : activating spec: merb-param-protection-1.0.1
+D, [2009-04-09T22:06:23.348260 #8816] DEBUG -- : starting to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.348309 #8816] DEBUG -- : searching for: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.370349 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:23.370443 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.370586 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.370693 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.370800 #8816] DEBUG -- : searching for: merb_datamapper (>= 1.0.1, runtime)
+I, [2009-04-09T22:06:23.393800 #8816]  INFO -- : activating spec: merb_datamapper-1.0.1
+D, [2009-04-09T22:06:23.394120 #8816] DEBUG -- : starting to resolve deps: dm-core (>= 0.9.5, runtime), dm-migrations (>= 0.9.5, runtime), merb-core (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:23.394216 #8816] DEBUG -- : searching for: dm-core (>= 0.9.5, runtime)
+I, [2009-04-09T22:06:23.418594 #8816]  INFO -- : activating spec: dm-core-0.9.7
+D, [2009-04-09T22:06:23.418978 #8816] DEBUG -- : starting to resolve deps: data_objects (~> 0.9.7, runtime), extlib (~> 0.9.8, runtime), rspec (>= 1.1.3, runtime), addressable (~> 2.0, runtime)
+D, [2009-04-09T22:06:23.419034 #8816] DEBUG -- : searching for: data_objects (~> 0.9.7, runtime)
+I, [2009-04-09T22:06:23.465697 #8816]  INFO -- : activating spec: data_objects-0.9.8
+D, [2009-04-09T22:06:23.465960 #8816] DEBUG -- : starting to resolve deps: addressable (~> 2.0, runtime), extlib (~> 0.9.8, runtime)
+D, [2009-04-09T22:06:23.466015 #8816] DEBUG -- : searching for: addressable (~> 2.0, runtime)
+I, [2009-04-09T22:06:23.491032 #8816]  INFO -- : activating spec: addressable-2.0.0
+D, [2009-04-09T22:06:23.491234 #8816] DEBUG -- : starting to resolve deps: 
+D, [2009-04-09T22:06:23.491294 #8816] DEBUG -- : searching for: extlib (~> 0.9.8, runtime)
+D, [2009-04-09T22:06:23.517554 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:23.517650 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.517702 #8816] DEBUG -- : finishing to resolve deps: 
+D, [2009-04-09T22:06:23.517740 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.517785 #8816] DEBUG -- : searching for: extlib (~> 0.9.8, runtime)
+D, [2009-04-09T22:06:23.563935 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:23.564039 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.564081 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.564142 #8816] DEBUG -- : finishing to resolve deps: addressable (~> 2.0, runtime), extlib (~> 0.9.8, runtime)
+D, [2009-04-09T22:06:23.564178 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.564221 #8816] DEBUG -- : searching for: extlib (~> 0.9.8, runtime)
+D, [2009-04-09T22:06:23.590628 #8816] DEBUG -- : already activated: extlib-0.9.8
+D, [2009-04-09T22:06:23.590716 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.590760 #8816] DEBUG -- : searching for: rspec (>= 1.1.3, runtime)
+D, [2009-04-09T22:06:23.615366 #8816] DEBUG -- : already activated: rspec-1.1.3
+D, [2009-04-09T22:06:23.615493 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.615542 #8816] DEBUG -- : searching for: addressable (~> 2.0, runtime)
+D, [2009-04-09T22:06:23.666034 #8816] DEBUG -- : already activated: addressable-2.0.0
+D, [2009-04-09T22:06:23.666137 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.666173 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.666208 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.666241 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.666311 #8816] DEBUG -- : finishing to resolve deps: data_objects (~> 0.9.7, runtime), extlib (~> 0.9.8, runtime), rspec (>= 1.1.3, runtime), addressable (~> 2.0, runtime)
+D, [2009-04-09T22:06:23.666348 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.666391 #8816] DEBUG -- : searching for: dm-migrations (>= 0.9.5, runtime)
+I, [2009-04-09T22:06:23.694572 #8816]  INFO -- : activating spec: dm-migrations-0.9.7
+D, [2009-04-09T22:06:23.694905 #8816] DEBUG -- : starting to resolve deps: dm-core (~> 0.9.7, runtime)
+D, [2009-04-09T22:06:23.695003 #8816] DEBUG -- : searching for: dm-core (~> 0.9.7, runtime)
+D, [2009-04-09T22:06:23.721547 #8816] DEBUG -- : already activated: dm-core-0.9.7
+D, [2009-04-09T22:06:23.721659 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.721717 #8816] DEBUG -- : finishing to resolve deps: dm-core (~> 0.9.7, runtime)
+D, [2009-04-09T22:06:23.721755 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.721797 #8816] DEBUG -- : searching for: merb-core (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:23.769342 #8816] DEBUG -- : already activated: merb-core-1.0.1
+D, [2009-04-09T22:06:23.769453 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.769488 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.769525 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.769597 #8816] DEBUG -- : finishing to resolve deps: dm-core (>= 0.9.5, runtime), dm-migrations (>= 0.9.5, runtime), merb-core (~> 1.0.1, runtime)
+D, [2009-04-09T22:06:23.769636 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.769697 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.769731 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.769988 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.770075 #8816] DEBUG -- : finishing to resolve deps: 
+D, [2009-04-09T22:06:23.770119 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.770175 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.770267 #8816] DEBUG -- : finishing to resolve deps: merb-core (= 1.0.1, runtime), haml (>= 2.0.3, runtime)
+D, [2009-04-09T22:06:23.770317 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.770376 #8816] DEBUG -- : searching for: merb-helpers (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.798926 #8816] DEBUG -- : already activated: merb-helpers-1.0.1
+D, [2009-04-09T22:06:23.799019 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.799064 #8816] DEBUG -- : searching for: merb-mailer (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.825037 #8816] DEBUG -- : already activated: merb-mailer-1.0.1
+D, [2009-04-09T22:06:23.825144 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.825190 #8816] DEBUG -- : searching for: merb-param-protection (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.853529 #8816] DEBUG -- : already activated: merb-param-protection-1.0.1
+D, [2009-04-09T22:06:23.853624 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.853668 #8816] DEBUG -- : searching for: merb_datamapper (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.901459 #8816] DEBUG -- : already activated: merb_datamapper-1.0.1
+D, [2009-04-09T22:06:23.901553 #8816] DEBUG -- : finished with no sibling
+D, [2009-04-09T22:06:23.901587 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901622 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901652 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901685 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901717 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901749 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901781 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901813 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901844 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901875 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901907 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.901937 #8816] DEBUG -- : finished with sibling
+D, [2009-04-09T22:06:23.902068 #8816] DEBUG -- : finishing to resolve deps: merb-core (>= 1.0.1, runtime), merb-action-args (>= 1.0.1, runtime), merb-assets (>= 1.0.1, runtime), merb-slices (>= 1.0.1, runtime), merb-auth (>= 1.0.1, runtime), merb-cache (>= 1.0.1, runtime), merb-exceptions (>= 1.0.1, runtime), merb-gen (>= 1.0.1, runtime), merb-haml (>= 1.0.1, runtime), merb-helpers (>= 1.0.1, runtime), merb-mailer (>= 1.0.1, runtime), merb-param-protection (>= 1.0.1, runtime), merb_datamapper (>= 1.0.1, runtime)
+D, [2009-04-09T22:06:23.902110 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.902153 #8816] DEBUG -- : searching for: dm-core (~> 0.9.6, runtime)
+D, [2009-04-09T22:06:23.927922 #8816] DEBUG -- : already activated: dm-core-0.9.7
+D, [2009-04-09T22:06:23.928010 #8816] DEBUG -- : next sibling
+D, [2009-04-09T22:06:23.928056 #8816] DEBUG -- : searching for: do_sqlite3 (~> 0.9.6, runtime)
+I, [2009-04-09T22:06:23.954717 #8816]  INFO -- : activating spec: do_sqlite3-0.9.7
+D, [2009-04-09T22:06:23.954967 #8816] DEBUG -- : starting to resolve deps: data_objects (= 0.9.7, runtime)
+D, [2009-04-09T22:06:23.955017 #8816] DEBUG -- : searching for: data_objects (= 0.9.7, runtime)
+W, [2009-04-09T22:06:23.983972 #8816]  WARN -- : Handling the dep which can't be resolved: data_objects (= 0.9.7, runtime)
+W, [2009-04-09T22:06:23.984260 #8816]  WARN -- : Invalidating the bad choice of spec: do_sqlite3-0.9.7
+D, [2009-04-09T22:06:23.984371 #8816] DEBUG -- : invalidating do_sqlite3-0.9.7
+D, [2009-04-09T22:06:23.984620 #8816] DEBUG -- : searching for: do_sqlite3 (~> 0.9.6, runtime)
+GemResolver::BadDep: Couldn't satisfy dependencies: 'do_sqlite3 (~> 0.9.6, runtime)'
